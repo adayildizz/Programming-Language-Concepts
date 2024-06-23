@@ -1,0 +1,1 @@
+("8.12" tarm64osx ("e3b3478695d685f57d2325e5967368fc5e79fe98" . "de9760bf57e9acebedeb44f998cfa623c911ae90") #"/Users/muhammeterenozogul/Desktop/Project4/Project3Part1/environments.scm" #"/Users/muhammeterenozogul/Desktop/Project4/Project3Part1/lang.scm" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"eopl.rkt"))

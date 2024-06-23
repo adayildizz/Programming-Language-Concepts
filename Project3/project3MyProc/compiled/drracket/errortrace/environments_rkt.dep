@@ -1,0 +1,1 @@
+("8.12" tarm64osx ("820b51313213b0312c7ddf39f1835f01edad5c06" . "5315a54a60a4166cb2ab9b4959c83a76e47b3ed7") #"/Users/muhammeterenozogul/Desktop/SPRING 24/comp 301/Problem Sets/project3MyProc/data-structures.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))
